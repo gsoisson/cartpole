@@ -1,3 +1,3 @@
-# A deep RL solution to the CartPole environment in Gym
+# A Deep RL Solution To The CartPole Environment In Gym
 
-The link to the presentation slides: https://docs.google.com/presentation/d/1MlESk3gZiELeiiCRdnCzvcoL0MxchzYTDcWkgzw7C4Y/edit?usp=sharing
+The goal of this project is to solve the CartPole environment in Gym using Deep Reinforcement Learning. We first modify the environment to add an action that does nothing, then implement a deep Q-learning with experience replay solution. Finally, we study the impact on the learning process of adding a cost to each moving action.
